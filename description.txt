@@ -1,0 +1,13 @@
+https://youtu.be/yUxJ9GU32do
+------------------------------------------------
+
+npx create-react-app todo
+
+npm i react-draggable
+npm i randomcolor
+npm i uuid
+
+npm run start
+
+------------------------------------------------
+00 : 05 : 41
